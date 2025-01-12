@@ -92,7 +92,7 @@ nav div:nth-of-type(3) button:hover {
 main {
     width: 100%;
     height: 100vh;
-    background-image: url(/imgs/mbr-1920x1184.jpg);
+    background-image: url(./imgs/mbr-1920x1184.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -210,11 +210,11 @@ section:nth-of-type(2) .sec-1 {
 }
 
 section:nth-of-type(2) .sec-1 > div:nth-of-type(1) {
-    background-image: url(/imgs/mbr-1920x1445.jpg);
+    background-image: url(./imgs/mbr-1920x1445.jpg);
 }
 
 section:nth-of-type(2) .sec-1 > div:nth-of-type(2) {
-    background-image: url(/imgs/mbr-2-1920x1280.jpg);
+    background-image: url(./imgs/mbr-2-1920x1280.jpg);
 }
 
 section:nth-of-type(2) .sec-1 > div {
@@ -311,19 +311,19 @@ section:nth-of-type(2) .sec-2 > div {
 }
 
 section:nth-of-type(2) .sec-2 > div:nth-of-type(1) > div:nth-of-type(1) {
-    background-image: url(/imgs/mbr-872x667.jpg);
+    background-image: url(./imgs/mbr-872x667.jpg);
 }
 
 section:nth-of-type(2) .sec-2 > div:nth-of-type(2) > div:nth-of-type(1) {
-    background-image: url(/imgs/mbr-4-872x581.jpg);
+    background-image: url(./imgs/mbr-4-872x581.jpg);
 }
 
 section:nth-of-type(2) .sec-2 > div:nth-of-type(3) > div:nth-of-type(1) {
-    background-image: url(/imgs/mbr-872x569.jpg);
+    background-image: url(./imgs/mbr-872x569.jpg);
 }
 
 section:nth-of-type(2) .sec-2 > div:nth-of-type(4) > div:nth-of-type(1) {
-    background-image: url(/imgs/mbr-872x571.jpg);
+    background-image: url(./imgs/mbr-872x571.jpg);
 }
 
 section:nth-of-type(2) .sec-2 > div > div:nth-of-type(1) {
